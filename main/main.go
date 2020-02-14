@@ -38,7 +38,7 @@ func main(){
 type Person struct {
 	Name string
 	Age int
-}
+}tia
 
 type Weather struct {
 	Date string
